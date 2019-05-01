@@ -1,4 +1,4 @@
-# morse
+# Samuel Morse
 
 Website about Samuel Morse
 
